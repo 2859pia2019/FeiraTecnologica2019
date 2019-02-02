@@ -5,14 +5,12 @@
 - [SciELO](http://www.scielo.org/php/index.php)
 - [Google Acadêmico](https://scholar.google.com.br/)
 - [Microsoft Academic](http://academic.research.microsoft.com/)
-- [Revista brasileira que divulga e destaca a produção tecno-científica na área de automação](http://www.scielo.br/scielo.php?script=sci_serial&pid=0103-
-1759&lng=pt&nrm=iso)
+- [Revista brasileira que divulga e destaca a produção tecno-científica na área de automação](http://www.scielo.br/scielo.php?script=sci_serial&pid=0103-1759&lng=pt&nrm=iso)
 - [Modeling, Identification and Control (Online): a Norwegian research bulletin](http://www.mic-journal.no/)
 - [Discrete Mathematics and Theoretical Computer Science – B1](http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs)
 - [Mathematical Problems in Engineering – B1](http://www.hindawi.com/journals/mpe/contents/)
 - [International Journal of Computer Science and Applications – B2](http://www.tmrfindia.org/ijcsa.html)
-- [Journal of The Brazilian Computer Society – B2](http://www.scielo.br/scielo.php?script=sci_serial&pid=0104-
-6500&lng=pt&nrm=iso)
+- [Journal of The Brazilian Computer Society – B2](http://www.scielo.br/scielo.php?script=sci_serial&pid=0104-6500&lng=pt&nrm=iso)
 - [Journal of Universal Computer Science – B2](http://www.jucs.org/jucs_info/acm_categories)
 - [Revista de Gestão da Tecnologia e Sistemas de Informação = Journal of Information Systems and Technology Management – JISTEM – B3](http://www.jistem.fea.usp.br/index.php/jistem/issue/archive)
 - [EURASIP Journal on Advances in Signal Processing](http://asp.eurasipjournals.com/content)
