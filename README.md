@@ -16,7 +16,7 @@ Com o tema “Ciência de dados para um mundo mais inteligente”, o evento, a
 
 Todos os alunos regularmente matriculados no **UNIGRANDE** poderão inscrever trabalhos no evento, independente do curso e período, na qualidade de participante e/ou relator de trabalhos científicos, sendo estes, realizados sob a orientação de um docente. O prazo final para submissão dos artigos e das sessões técnicas será no dia 23 de fevereiro. Esse prazo deve ser rigorosamente respeitado e os trabalhos enviados devem estar no padrão descrito no [edital](https://github.com/2859pia2019/FeiraTecnologica2019/blob/master/IV-MOSTRA-CIENTIFICA-EDITAL-FEIRA-TECNOLOGICA-2019.pdf).
 
-O evento também é aberto para participação dos profissionais e convidados das mais diversas áreas de conhecimento. Para mais informações consulte o edital.
+O evento também é aberto para participação dos profissionais e convidados das mais diversas áreas de conhecimento. Para mais informações consulte o [edital](https://github.com/2859pia2019/FeiraTecnologica2019/blob/master/IV-MOSTRA-CIENTIFICA-EDITAL-FEIRA-TECNOLOGICA-2019.pdf).
 
 --- 
 
