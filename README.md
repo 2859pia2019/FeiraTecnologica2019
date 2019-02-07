@@ -11,3 +11,13 @@
 ### Guia para montar sua palestra [aqui](talk.md)
 
 ### Lista de periodico para pesquisa acadêmica [aqui](periodico.md)
+
+Com o objetivo de apresentar as diversas pesquisas desenvolvidas nas várias áreas do conhecimento, o **Centro Universitário da Grande Fortaleza - UNIGRANDE** divulga edital com as normas dos trabalhos científicos e sessões técnicas para os interessados em participar da **IV Mostra Científica** - que está integrada na **X Feira Tecnológica**.
+
+Com o tema “Ciência de dados para um mundo mais inteligente”, o evento, aberto para participação dos profissionais e convidados das mais diversas áreas de conhecimento, proporcionará aos participantes a possibilidade de mostrar suas ideias – ainda que pouco desenvolvidas.
+
+### Quem pode participar?
+
+Todos os alunos regularmente matriculados no **UNIGRANDE** poderão inscrever trabalhos no evento, independente do curso e período, na qualidade de participante e/ou relator de trabalhos científicos, sendo estes, realizados sob a orientação de um docente. O prazo final para submissão dos artigos e das sessões técnicas será no dia 23 de fevereiro. Esse prazo deve ser rigorosamente respeitado e os trabalhos enviados devem estar no padrão descrito no edital.
+
+O evento também é aberto para participação dos profissionais e convidados das mais diversas áreas de conhecimento. Para mais informações consulte o edital.
